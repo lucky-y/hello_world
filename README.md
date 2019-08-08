@@ -8,6 +8,8 @@ git 小白学习创建仓库~
 
 # git add . // . 表示暂存所有文件
 
+# git status
+
 # git commit -m "提交信息"
 
 # git push -u origin master // master 为提交到的分支名
